@@ -51,13 +51,7 @@
 
 
 
-- 🖥 &nbsp;
 
-
-
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
- 
 
 <br/>
 <hr>
@@ -91,10 +85,5 @@
 
 </p>
 </br>
-## ✨ Visitors 
- 
-
-
- $$###Can't Stop Myself From Editing###$$$$ 
 
 <hr>
