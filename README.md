@@ -75,9 +75,9 @@
 
 
 
-<a href="https://www.linkedin.com/in/aparna-sharma-438aa5201/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkdin-%C3%95M__1115-blue"></a>
+<a href="https://www.linkedin.com/in/aparna-sharma-438aa5201/"></a>
 
-<a href="mailto: aparnasharma.20cs111@jssaten.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-%C3%95M__1115-red"></a>
+<a href="mailto: aparnasharma.20cs111@jssaten.ac.in"></a>
   
 
 
