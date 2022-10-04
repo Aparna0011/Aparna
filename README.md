@@ -48,6 +48,7 @@
 - 🔧 &nbsp;
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse]
 
 
 
@@ -60,9 +61,7 @@
 
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 
-<a href="https://github.com/om-1115">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=om-1115&theme=buefy&show_icons=true" />
+<a href="https://github.com/Aparna0011">
 
   <hr>
 
