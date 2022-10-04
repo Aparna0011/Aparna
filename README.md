@@ -48,7 +48,7 @@
 - 🔧 &nbsp;
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse]
+
 
 
 
@@ -57,28 +57,7 @@
 <br/>
 <hr>
 
-<p align="center">
 
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-
-<a href="https://github.com/Aparna0011">
-
-  <hr>
-
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-
-
-<a href="https://www.linkedin.com/in/aparna-sharma-438aa5201/"></a>
-
-<a href="mailto: aparnasharma.20cs111@jssaten.ac.in"></a>
-  
 
 
 
